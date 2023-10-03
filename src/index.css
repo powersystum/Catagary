@@ -10,4 +10,16 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    padding: 5px;
+}
+body{
+  overflow-x: hidden;
+
+}
+.img{
+  width: 300px;
+  height: 400px;
+  object-fit: contain;
+  padding: 10px;
+
 }
